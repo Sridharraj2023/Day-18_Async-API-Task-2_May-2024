@@ -1,0 +1,21 @@
+*{
+   
+    justify-content: center;
+}
+
+
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(48, 62, 62);
+}
+
+.card-body{
+   
+}
+
+
+img{
+    width: 200px;
+    height: 140px;
+}
